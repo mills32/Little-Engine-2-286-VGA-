@@ -2,7 +2,7 @@
 Little Game Engine optimized for VGA and slow 286
 ----------------------------------------------------------------------------
 
-<img src="play_011.png">
+<img src="logo.png">  <img src="menu.png">
 
 The first Little Game Engine is awesome, but it looks a bit "8-Bit" to me, so I wanted to make a simpler but improved version.
 
