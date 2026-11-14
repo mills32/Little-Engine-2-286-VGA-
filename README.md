@@ -51,8 +51,9 @@ Little Engine functions:
 DAT FILES
 ---------
 
-DAT files are a container which stores multiple smaller files, so program distribution is easier.
+Engine loads most of the assets from DAT containers. DAT files are a container which stores multiple smaller files.
 To generate a DAT file, use `makedat` program (use command line or drag and drop multiple files or a folder).
+VGM and MOD files can be loaded without being stored in DAT containers.
 
 Install, Make and Run
 ---------------
