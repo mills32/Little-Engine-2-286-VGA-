@@ -30,7 +30,7 @@ REQUIREMENTS
 
                   minimum                              recommended
 
-          CPU: 80286/NEC V30 6 MHz            80286/NEC V80 12 MHz
+          CPU: 80286/NEC V30 6 MHz            80286/NEC V30 12 MHz (for MOD playback)
           RAM: 300 Kb                         300 Kb
           GRAPHICS: VGA (256Kb)               VGA (256Kb)
           SOUND: PC Speaker                   Adlib / OPL2 or Sound Blaster 2.0
