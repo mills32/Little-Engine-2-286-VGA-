@@ -43,6 +43,7 @@ Little Engine functions:
 - Needs converter to load assest
 - Sprites 32x32, 1 64x64 sprite with no background restore function.
 - Several modes of hardware colour priority to fake sprites behind objects.
+- One 128x128 fixed animation, can only be drawn at 8 pixel boundaries, and can only contain 12 frames.
 - TMX maps: Map sizes are fixed 512x36 tiles, created with tiled: https://www.mapeditor.org/
 - Graphic print function (8x8 Fonts supporting any encoded language with 1 byte per character).
 - Palette animations.
