@@ -169,7 +169,7 @@ void main(){
 	//Allways the first, loads setup and initializes engine
 	LT_Setup();	
 	//If you want a logo
-	//LT_Logo("ASSETS/IMAGE.DAT","logo.bmp");
+	LT_Logo("ASSETS/IMAGE.DAT","logo.bmp");
 
 	//That's it, let's play
 	LT_MODE = 0;
