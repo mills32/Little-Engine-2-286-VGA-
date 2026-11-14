@@ -39,8 +39,8 @@ REQUIREMENTS
 Little Engine functions:
 ------------------------
 
-- 320x240 60 FPS MODE, compatible with all cards
-- Needs converter to load assest
+- 320x240 60 FPS MODE, compatible with all cards.
+- Needs converter to load assets.
 - Sprites 32x32, 1 64x64 sprite with no background restore function.
 - Several modes of hardware colour priority to fake sprites behind objects.
 - One 128x128 fixed animation, can only be drawn at 8 pixel boundaries, and can only contain 12 frames.
