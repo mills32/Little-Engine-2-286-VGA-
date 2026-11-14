@@ -1,0 +1,11 @@
+#SETUP---------
+VIDEO=2        
+SCROLL=1       
+MUSIC=2        
+SFX=0          
+JOYX=AABB      
+JOYY=AABB0     
+LANG=0         
+#SAVE----------
+LEV_A=0LIV_A=0 
+LEV_B=0LIV_B=0 $
