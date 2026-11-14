@@ -43,7 +43,6 @@ Little Engine functions:
 - TMX maps: Map sizes are fixed 512x36 tiles, created with tiled: https://www.mapeditor.org/
 - Graphic print function (8x8 Fonts supporting any encoded language with 1 byte per character).
 - Palette animations.
-- Fake Parallax on VGA (64 colors palette animations)
 - VGM music for Adlib / OPL2. Protracker MOD for Sound Blaster (no effects, only note off with c00). 
 
 
