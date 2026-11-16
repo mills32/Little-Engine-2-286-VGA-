@@ -42,8 +42,11 @@ Little Engine functions:
 - 320x240 60 FPS MODE, compatible with all cards.
 - Needs converter to load assets.
 - Sprites 32x32, 1 64x64 sprite with no background restore function.
+ 
  	    Sprite mode1: sprite 0 = player; Sprite 1 = one enemy (cloned to draw up to 6 copies).
+  
    	    Sprite mode2: sprite 0 = player; Sprite 1 = enemy0 (cloned to draw up to 3 copies); Sprite 4 = enemy1 (cloned to draw up to 3 copies).
+
 - Several modes of hardware colour priority to fake sprites behind objects.
 - One 128x128 fixed animation, can only be drawn at 8 pixel boundaries, and can only contain 12 frames.
 - TMX maps: Map sizes are fixed 512x36 tiles, created with tiled: https://www.mapeditor.org/
